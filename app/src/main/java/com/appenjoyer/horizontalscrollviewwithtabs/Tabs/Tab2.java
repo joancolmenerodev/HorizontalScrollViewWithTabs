@@ -1,4 +1,4 @@
-package com.appenjoyer.horizontalscrollviewwithtabs;
+package com.appenjoyer.horizontalscrollviewwithtabs.Tabs;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -9,6 +9,11 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.appenjoyer.horizontalscrollviewwithtabs.Adapters.CustomLinearLayoutManager;
+import com.appenjoyer.horizontalscrollviewwithtabs.Adapters.MyRecyclerViewAdapter;
+import com.appenjoyer.horizontalscrollviewwithtabs.R;
+import com.appenjoyer.horizontalscrollviewwithtabs.dataModel;
 
 import java.util.ArrayList;
 

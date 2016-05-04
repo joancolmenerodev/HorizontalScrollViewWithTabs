@@ -1,4 +1,4 @@
-package com.appenjoyer.horizontalscrollviewwithtabs;
+package com.appenjoyer.horizontalscrollviewwithtabs.Adapters;
 
 /**
  * Created by Joan on 28/10/2015.
@@ -9,6 +9,8 @@ import android.support.v4.view.ViewCompat;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
+
+import com.appenjoyer.horizontalscrollviewwithtabs.BuildConfig;
 
 import java.lang.reflect.Field;
 

@@ -1,8 +1,12 @@
-package com.appenjoyer.horizontalscrollviewwithtabs;
+package com.appenjoyer.horizontalscrollviewwithtabs.Adapters;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
+
+import com.appenjoyer.horizontalscrollviewwithtabs.Tabs.Tab1;
+import com.appenjoyer.horizontalscrollviewwithtabs.Tabs.Tab2;
+import com.appenjoyer.horizontalscrollviewwithtabs.Tabs.Tab3;
 
 /**
  * Created by Joan on 27/10/2015.
